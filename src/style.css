@@ -44,7 +44,7 @@ body {
 
 .link:hover {
   text-decoration: none;
-  color: #00acdc;
+  color: #000;
 }
 
 .img {
@@ -67,4 +67,8 @@ body {
   border-radius: 8px;
   background-color: #00acdc;
   bottom: 0;
+}
+
+.contaner {
+  flex-direction: row;
 }
