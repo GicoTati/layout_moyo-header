@@ -1,5 +1,4 @@
 * {
-  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
@@ -18,8 +17,8 @@ header {
 
 .nav__link {
   display: flex;
-  height: 60px;
   position: relative;
+  height: 60px;
   align-items: center;
   text-decoration: none;
   color: #000;
